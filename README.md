@@ -1,2 +1,2 @@
-# LG_Color_Robot
-color converter for output files (script for Illustrator)
+# LG_Color_Robot - Illustrator Script
+color converter for output files
